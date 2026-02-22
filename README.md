@@ -20,9 +20,13 @@ This project focuses on smooth hero animations, creative image transitions, and 
 
 ## 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
+</p>
+
+### 🎬 Animation Libraries
 - GSAP (GreenSock Animation Platform)
 - Shery.js
 
@@ -70,3 +74,4 @@ This project focuses on smooth hero animations, creative image transitions, and 
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
