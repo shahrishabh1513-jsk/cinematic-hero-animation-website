@@ -70,10 +70,11 @@ This project focuses on smooth hero animations, creative image transitions, and 
 
 ## 🌍 Live Demo
 
-(Add your deployed link here)
+https://shahrishabh1513-jsk.github.io/cinematic-hero-animation-website/
 
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
