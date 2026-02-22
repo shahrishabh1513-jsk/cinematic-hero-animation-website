@@ -54,7 +54,8 @@ This project focuses on smooth hero animations, creative image transitions, and 
 
 ## 📸 Preview
 
-(Add your project screenshot here)
+<img width="1857" height="878" alt="image" src="https://github.com/user-attachments/assets/09013577-1438-4282-83fc-1c5afda64ac0" />
+
 
 ---
 
@@ -74,4 +75,5 @@ This project focuses on smooth hero animations, creative image transitions, and 
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
